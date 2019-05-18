@@ -5,8 +5,10 @@ def speak_to_grandma(string)
     "NO, NOT SINCE 1938!"
   elsif string == "I LOVE YOU GRANDMA!"
     puts "I LOVE YOU TOO PUMPKIN!"
+    "I LOVE YOU TOO PUMPKIN!"
   else string
     puts "HUH?! SPEAK UP, SONNY!"
+    "HUH?! SPEAK UP< SONNY!"
   end
 end
 # Whatever you say to grandma, she should respond with
