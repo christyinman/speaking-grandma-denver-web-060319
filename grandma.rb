@@ -1,4 +1,5 @@
-# Write a speak_to_grandma method.
+spec_helper
+
 def speak_to_grandma(string)
   if string == string.upcase
     puts "NO, NOT SINCE 1938!"
